@@ -1,0 +1,52 @@
+[
+    {
+        "title":  "Sample Song 1",
+        "id":  1,
+        "lyrics":  "Sample lyrics for song number 1"
+    },
+    {
+        "title":  "Sample Song 2",
+        "id":  2,
+        "lyrics":  "Sample lyrics for song number 2"
+    },
+    {
+        "title":  "Sample Song 3",
+        "id":  3,
+        "lyrics":  "Sample lyrics for song number 3"
+    },
+    {
+        "title":  "Sample Song 4",
+        "id":  4,
+        "lyrics":  "Sample lyrics for song number 4"
+    },
+    {
+        "title":  "Sample Song 5",
+        "id":  5,
+        "lyrics":  "Sample lyrics for song number 5"
+    },
+    {
+        "title":  "Sample Song 6",
+        "id":  6,
+        "lyrics":  "Sample lyrics for song number 6"
+    },
+    {
+        "title":  "Sample Song 7",
+        "id":  7,
+        "lyrics":  "Sample lyrics for song number 7"
+    },
+    {
+        "title":  "Sample Song 8",
+        "id":  8,
+        "lyrics":  "Sample lyrics for song number 8"
+    },
+    {
+        "title":  "Sample Song 9",
+        "id":  9,
+        "lyrics":  "Sample lyrics for song number 9"
+    },
+    {
+        "title":  "Sample Song 10",
+        "id":  10,
+        "lyrics":  "Sample lyrics for song number 10"
+    }
+]
